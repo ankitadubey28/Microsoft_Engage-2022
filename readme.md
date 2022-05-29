@@ -21,7 +21,7 @@ Law enforcement by gathering mugshots can evaluate local, national, and federal 
 This project servers as a foundation for future projects based on facial detection and recognition. 
 This project also covers native desktop application development and database management with a user-friendly UI. Using this system any school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their availability(presence) report throughout the month. It could be used to help in the authentication workflow.
 
-[![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video)](https://youtu.be/OKKK1GOnlIU) 
+
 
 ## Features and Interfaces
 
@@ -82,10 +82,6 @@ This project also covers native desktop application development and database man
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-
-## Useful Links
-
-- [Demo Video](https://youtu.be/OKKK1GOnlIU)
 
 ## Need help?
 
