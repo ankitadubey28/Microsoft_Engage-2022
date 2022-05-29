@@ -33,39 +33,39 @@ This project also covers native desktop application development and database man
    
    - Login Section
      - Flawless landing page with `Login` button for user Login
-   ![image](https://github.com/Raj82862/read/blob/main/Login.jpeg)
+   ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/Login.jpeg)
 
    - Registration Section 
      - Has a New User Registration Option for New Users to input their Details
-   ![image](https://github.com/Raj82862/read/blob/main/Register.jpeg)
+   ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/Register.jpeg)
    
    - Forget Password Section
      - For the ones who did forget their password, one can reset the passsword using `Security Question`
-   ![image](https://github.com/Raj82862/read/blob/main/Forget%20Password.jpeg)
+   ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/Forget%20Password.jpeg)
    
 2. Home Page
 
-   ![image](https://github.com/Raj82862/read/blob/main/Home%20page.jpeg)
+   ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/Home%20page.jpeg)
 
    - Student Details 
      - To register new students into the system and to view the details of already registered students
-   ![image](https://github.com/Raj82862/read/blob/main/student%20management.jpeg)
+   ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/student%20management.jpeg)
 
    - Face Detector 
      - Detects the face, if a registered face is recognized, it marks the attendance
-    ![image](https://github.com/Raj82862/read/blob/main/face%20recognition.jpeg)
+    ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/face%20recognition.jpeg)
 
    - Attendance 
      - It shows the attendance by importing it from the csv file
-    ![image](https://github.com/Raj82862/read/blob/main/attendance.jpeg)
+    ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/attendance.jpeg)
 
    - Chat Bot 
      - For clearing basic queries regarding the project
-    ![image](https://github.com/Raj82862/read/blob/main/chatbot.jpeg)
+    ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/chatbot.jpeg)
 
    - Train Data 
      - Trains the data sets into the server
-    ![image](https://github.com/Raj82862/read/blob/main/train%20dataset.jpeg)
+    ![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/train%20dataset.jpeg)
 
    - Photos
      - To view the registered data faces
@@ -75,7 +75,7 @@ This project also covers native desktop application development and database man
 
 ## Tech stack
 
-![image](https://github.com/Raj82862/read/blob/main/Frame%201.png)
+![image](https://github.com/ankitadubey28/Microsoft_Engage-2022/blob/master/Frame%201.png)
 
 ### Tools and Languages: 
 <p align="left"> 
