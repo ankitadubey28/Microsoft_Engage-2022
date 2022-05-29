@@ -1,16 +1,12 @@
 # Faciara - Attendance Management System using Face Recognition
 ## Submission for Microsoft Engage 2022
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?logo=github&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Raj82862/Raj82862?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Apurva-tech/unite?style=for-the-badge)
-![My stars](https://img.shields.io/github/stars/Apurva-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)
-![GitHub forks](https://img.shields.io/github/forks/Apurva-tech/unite?style=for-the-badge&logo=git)
-![Code size](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/Apurva-tech/unite?style=for-the-badge)
-![Top](https://img.shields.io/github/languages/top/Apurva-tech/unite?style=for-the-badge&label=Top%20Languages)
-![Issues](https://img.shields.io/github/issues/Apurva-tech/unite?style=for-the-badge&label=Issues)
-![Watchers](https://img.shields.io/github/watchers/Apurva-tech/unite?label=Watch&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ankitadubey28/Microsoft_Engage-2022?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ankitadubey28/Microsoft_Engage-2022/master?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ankitadubey28/Microsoft_Engage-2022?style=for-the-badge)
+![Languages](https://img.shields.io/github/languages/count/ankitadubey28/Microsoft_Engage-2022?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues-raw/ankitadubey28/Microsoft_Engage-2022?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/ankitadubey28/Microsoft_Engage-2022?style=for-the-badge)
 
 * This project involves building an attendance system which utilizes facial recognition to mark the presence, time-in, and time-out of students. It covers areas such as facial detection, alignment, and recognition, along with the development of a native desktop application to cater to various use cases of the system such as registration of new students, addition of photos to the training dataset, viewing attendance reports, etc. 
 
